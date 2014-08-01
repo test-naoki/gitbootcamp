@@ -2,6 +2,3 @@ gitbootcamp
 ===========
 comment1
 comment2
-master
-lino2
-lino2-2
